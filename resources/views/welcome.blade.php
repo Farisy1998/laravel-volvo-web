@@ -76,6 +76,8 @@
             <div class="col col-12 col-sm-6 col-md-6 col-lg-6">
             <center><a href="cars.blade.php"><button class="btn btn-outline-dark">Get to know about our Cabs</button></a></center>
             </div>
+            <br>
+            <br>
             <div class="col col-12 col-sm-6 col-md-6 col-lg-6">
             <center><a href="vid.blade.php"><button class="btn btn-outline-dark">Get a Volvo ID</button></a></center>
             </div>
@@ -97,7 +99,13 @@
             <br><br>
                 <center><h2><b>WHY VOLVO?</b></h2></center>
                 <br>
-                <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/img/three-callouts/homepage-whyvolvo-desktop-16x9.jpg?iar=0&w=1366" width="1120px" alt="...">
+                <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/img/three-callouts/homepage-whyvolvo-desktop-16x9.jpg?iar=0&w=1366" class="d-block w-100" alt="...">
+    </div>
+    </div>
+    </div>
             </div>
         </div>
         <div class="row">
