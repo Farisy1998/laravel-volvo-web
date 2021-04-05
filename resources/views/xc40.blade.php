@@ -15,7 +15,7 @@
     </head>
 <body>
     @section('content')
-    <br>&nbsp;&nbsp;&nbsp;<font size="30">Vovlo XC40</font><font size="30" color="gray"> - SUV</font>
+    <br>&nbsp;&nbsp;&nbsp;<font size="30">Vovlo XC40</font><font size="30" color="gray">&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;SUV</font>
     <br>
     <br>
     <div class="row">
