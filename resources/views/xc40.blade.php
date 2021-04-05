@@ -46,31 +46,19 @@
     <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2"></div>
     <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
         <center><h2><font color="black">FWD</font></h2></center>
+        <p><center><font color="gray">Drive</font></center></p>
     </div>
     <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
         <center><h2><font color="black">5</font></h2></center>
+        <p><center><font color="gray">Seats</font></center></p>
     </div>
     <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
         <center><h2><font color="black">1969</font></h2></center>
+        <p><center><font color="gray">cc</font></center></p>
     </div>
     <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
         <center><h2><font color="black">180</font></h2></center>
-    </div>
-    <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2"></div>
-    </div>
-    <div class="row">
-    <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2"></div>
-    <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
-        <center><font color="gray">Drive</font></center>
-    </div>
-    <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
-        <center><font color="gray">Seats</font></center>
-    </div>
-    <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
-        <center><font color="gray">cc</font></center>
-    </div>
-    <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
-        <center><font color="gray">km/h</font></center>
+        <p><center><font color="gray">km/h</font></center></p>
     </div>
     <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2"></div>
     </div>

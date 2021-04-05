@@ -48,31 +48,19 @@
     <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2"></div>
     <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
         <center><h2><font color="black">4.9<font size="3">sec</font></font></h2></center>
+        <p><center><font color="gray">0-100km/h</font></center></p>
     </div>
     <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
         <center><h2><font color="black" size="3">+</font><font color="black">418<font size="3">km</font></font></h2></center>
+        <p><center><font color="gray">Long range</font></center></p>
     </div>
     <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
         <center><h2><font color="black">40<font size="3">min</font></font></h2></center>
+        <p><center><font color="gray">~80% charged</font></center></p>
     </div>
     <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
         <center><h2><font color="black">408<font size="3">hp</font></font></h2></center>
-    </div>
-    <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2"></div>
-    </div>
-    <div class="row">
-    <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2"></div>
-    <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
-        <center><font color="gray">0-100km/h</font></center>
-    </div>
-    <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
-        <center><font color="gray">Long range</font></center>
-    </div>
-    <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
-        <center><font color="gray">~80% charged</font></center>
-    </div>
-    <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2">
-        <center><font color="gray">Pure power</font></center>
+        <p><center><font color="gray">Pure power</font></center></p>
     </div>
     <div class="col col-12 col-sm-2 col-md-2 col-lg-2 col-xl-2 col-xxl-2"></div>
     </div>

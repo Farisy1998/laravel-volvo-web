@@ -22,8 +22,9 @@
                     <div class="carousel-item active">
                         <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/my22/homepage/hero/moment-4-promotional-hero-2560x1096.jpg?iar=0&w=1366" class="d-block w-100" alt="...">
                         <div class="carousel-caption">
+                        <br>
                             <h5>Climate change is</h5>
-                            <p><font size="20"><b>THE ULTIMATE SAFETY TEST</b></font></p>
+                            <p><h2><font>THE ULTIMATE SAFETY TEST</font></h2></p>
                         </div>
                     </div>
                 </div>
@@ -122,8 +123,14 @@
     <br>
     <br>
     <br>
+</div>
+    <nav class="navbar navbar-light bg-light">
+  <div class="container-fluid">
+    <div class="container">
     <div class="row">
         <div class="col col-12 col-sm-12 col-md-12 col-lg-12">
+        <br>
+        <br>
         <center><font color="black"><h2>All models</h2></font></center>
         </div>
     </div>
@@ -216,6 +223,13 @@
     <br>
     <br>
     <br>
+    </div>
+  </div>
+</nav>
+    <br>
+    <br>
+    <br>
+    <div class="container">
     <div class="row">
         <div class="col col-12 col-sm-12 col-md-12 col-lg-12">
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
