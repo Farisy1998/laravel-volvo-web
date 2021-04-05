@@ -22,7 +22,6 @@
                     <div class="carousel-item active">
                         <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/my22/homepage/hero/moment-4-promotional-hero-2560x1096.jpg?iar=0&w=1366" class="d-block w-100" alt="...">
                         <div class="carousel-caption">
-                        <br>
                             <h5>Climate change is</h5>
                             <p><h2><font>THE ULTIMATE SAFETY TEST</font></h2></p>
                         </div>
