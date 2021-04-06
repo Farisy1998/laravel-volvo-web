@@ -82,7 +82,7 @@
             <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/pdp/xc90-fuel/xc90-gallery-1-21x9.jpg?iar=0&w=1366" alt="...">
+    <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/pdp/xc90-fuel/xc90-gallery-2-16x9.jpg?iar=0&w=1366" class="d-block w-100" alt="...">
     </div>
     </div>
     </div>
@@ -94,7 +94,7 @@
             <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/pdp/xc90-fuel/xc90-gallery-2-16x9.jpg?iar=0&w=1366" class="d-block w-100" alt="...">
+      <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/pdp/xc90-hybrid/xc90-recharge-gallery-1-16x9.jpg?h=700&iar=0" class="d-block w-100" alt="...">
     </div>
     </div>
     </div>
@@ -103,7 +103,7 @@
             <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/pdp/xc90-fuel/xc90-gallery-5-16x9.jpg?h=700&iar=0" class="d-block w-100" alt="...">
+      <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/pdp/xc90-hybrid/xc90-recharge-gallery-5-16x9.jpg?h=700&iar=0" class="d-block w-100" alt="...">
     </div>
     </div>
     </div>

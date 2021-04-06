@@ -80,7 +80,7 @@
             <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/pdp/xc90-fuel/xc90-gallery-6-16x9.jpg?h=700&iar=0" alt="...">
+      <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/pdp/xc90-fuel/xc90-gallery-4-16x9.jpg?h=700&iar=0" alt="...">
     </div>
     </div>
     </div>

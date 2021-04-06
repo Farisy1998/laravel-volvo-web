@@ -76,11 +76,20 @@
     <br><br><br>
     <div class="container">
         <div class="row">
-            <div class="col col-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="col col-6 col-sm-6 col-md-6 col-lg-6">
             <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/pdp/xc60-fuel/xc60-gallery-1-21x9.jpg?iar=0&w=1366" alt="...">
+      <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/pdp/xc60-fuel/xc60-gallery-3-16x9.jpg?h=700&iar=1366" alt="...">
+    </div>
+    </div>
+    </div>
+            </div>
+            <div class="col col-6 col-sm-6 col-md-6 col-lg-6">
+            <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://www.volvocars.com/images/v/in/v/-/media/project/contentplatform/data/media/pdp/xc60-fuel/xc60-gallery-5-16x9.jpg?h=700&iar=0" alt="...">
     </div>
     </div>
     </div>
